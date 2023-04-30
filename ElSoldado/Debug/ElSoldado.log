@@ -1,0 +1,12 @@
+﻿  Arma.cpp
+  IVista.cpp
+  Main.cpp
+K:\QuarkAcademy\CPlusPlus\ElSoldado\ElSoldado\Soldado.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MenuPresentador.cpp
+K:\QuarkAcademy\CPlusPlus\ElSoldado\ElSoldado\Soldado.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MenuVista.cpp
+  Soldado.cpp
+K:\QuarkAcademy\CPlusPlus\ElSoldado\ElSoldado\Soldado.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+K:\QuarkAcademy\CPlusPlus\ElSoldado\ElSoldado\MenuVista.cpp(48): warning C4715: 'MenuVista::MostrarRegresar': not all control paths return a value
+  ElSoldado.vcxproj -> K:\QuarkAcademy\CPlusPlus\ElSoldado\Debug\ElSoldado.exe

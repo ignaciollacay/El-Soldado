@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Modelo">
+      <UniqueIdentifier>{0d65534c-d33f-4edf-85af-3e21de98ff79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Vista">
+      <UniqueIdentifier>{93269573-3edb-4c41-9ae5-a8a361d2d8c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Presentador">
+      <UniqueIdentifier>{384d5864-80a0-44fb-8f54-a3875f432461}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldado.cpp">
+      <Filter>Source Files\Modelo</Filter>
+    </ClCompile>
+    <ClCompile Include="Arma.cpp">
+      <Filter>Source Files\Modelo</Filter>
+    </ClCompile>
+    <ClCompile Include="IVista.cpp">
+      <Filter>Source Files\Presentador</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuVista.cpp">
+      <Filter>Source Files\Vista</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuPresentador.cpp">
+      <Filter>Source Files\Presentador</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
